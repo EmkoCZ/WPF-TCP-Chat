@@ -1,0 +1,15 @@
+Dobrý den,
+
+tento projekt jsem udělal tak, že jsem zkombinoval dva projekty. Jeden byl design (WPF)
+a druhý byl TCP kód který jsem napsal pro semestrální projekt v druhém semestru.
+Proto se složka s kódem jmenuje Mark'sNetworkChat (dřívější název).
+Všechen kód jsem si ze starého projektu nahradil novějším z minulé semestrální práce,
+jelikož ten starý byl horší.
+
+Ikony jsem stáhl z internetu.
+Pokud chcete vidět podobný projekt, kde jsem udělal aplikaci s podobným designem, můžete jít na můj github: https://github.com/EmkoCZ
+Specificky na projekt: https://github.com/EmkoCZ/EZTest
+Zmíněný projekt též pracuje s TCP, ale většina elementů jako Button, TextBox atd... jsou vytvořeny za runtimu dynamicky.
+
+Nejedlý Marek
+xnejm009
